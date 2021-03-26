@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ullo/static/css/main.9b03dc33.chunk.css",
+    "main.js": "/ullo/static/js/main.e1d22f48.chunk.js",
+    "main.js.map": "/ullo/static/js/main.e1d22f48.chunk.js.map",
+    "runtime-main.js": "/ullo/static/js/runtime-main.274a59ef.js",
+    "runtime-main.js.map": "/ullo/static/js/runtime-main.274a59ef.js.map",
+    "static/js/2.d9ad6503.chunk.js": "/ullo/static/js/2.d9ad6503.chunk.js",
+    "static/js/2.d9ad6503.chunk.js.map": "/ullo/static/js/2.d9ad6503.chunk.js.map",
+    "static/js/3.5ffa7d91.chunk.js": "/ullo/static/js/3.5ffa7d91.chunk.js",
+    "static/js/3.5ffa7d91.chunk.js.map": "/ullo/static/js/3.5ffa7d91.chunk.js.map",
+    "index.html": "/ullo/index.html",
+    "static/css/main.9b03dc33.chunk.css.map": "/ullo/static/css/main.9b03dc33.chunk.css.map",
+    "static/js/2.d9ad6503.chunk.js.LICENSE.txt": "/ullo/static/js/2.d9ad6503.chunk.js.LICENSE.txt",
+    "static/media/close.5024fa5e.svg": "/ullo/static/media/close.5024fa5e.svg",
+    "static/media/filter_first.ac45d12f.svg": "/ullo/static/media/filter_first.ac45d12f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274a59ef.js",
+    "static/js/2.d9ad6503.chunk.js",
+    "static/css/main.9b03dc33.chunk.css",
+    "static/js/main.e1d22f48.chunk.js"
+  ]
+}
